@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 25px;
+}
+ .navbar{
+    background-color: black;
+    height: 20px;
+}
+aside{
+   text-align: right;
+    padding: 10px;
+}
+section{
+ text-align: center;
+    padding: 10px;
+}
+article{
+    text-align: right;
+    padding: 10px;
+}
